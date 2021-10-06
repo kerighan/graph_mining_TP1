@@ -3,7 +3,7 @@ Exercice 2
 
 Networkx contient de nombreuses fonctions permettant de lire ou écrire un graphe sur le disque. Un format classique pour un graphe et le format GXF, notamment supporté par Gephi.
 
-Dans cette série d'exercices, on s'intéresse au réseau du métro parisien. 
+Créez un fichier `2_metro.py`. Dans cette série d'exercices, on s'intéresse au réseau du métro parisien.
 
 Exercices :
 -----------
