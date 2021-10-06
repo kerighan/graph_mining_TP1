@@ -1,0 +1,654 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-08-10">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="La Défense Grande Arche" label="La Défense Grande Arche" />
+      <node id="Esplanade de la Défense" label="Esplanade de la Défense" />
+      <node id="Pont de Neuilly" label="Pont de Neuilly" />
+      <node id="Les Sablons" label="Les Sablons" />
+      <node id="Porte Maillot" label="Porte Maillot" />
+      <node id="Argentine" label="Argentine" />
+      <node id="Charles de Gaulle Etoile" label="Charles de Gaulle Etoile" />
+      <node id="George V" label="George V" />
+      <node id="Franklin D Roosevelt" label="Franklin D Roosevelt" />
+      <node id="Champs Elysées Clémenceau" label="Champs Elysées Clémenceau" />
+      <node id="Concorde" label="Concorde" />
+      <node id="Tuileries" label="Tuileries" />
+      <node id="Palais Royal Musée du Louvre" label="Palais Royal Musée du Louvre" />
+      <node id="Louvre Rivoli" label="Louvre Rivoli" />
+      <node id="Châtelet" label="Châtelet" />
+      <node id="Hôtel de Ville" label="Hôtel de Ville" />
+      <node id="Saint Paul" label="Saint Paul" />
+      <node id="Bastille" label="Bastille" />
+      <node id="Gare de Lyon" label="Gare de Lyon" />
+      <node id="Reuilly Diderot" label="Reuilly Diderot" />
+      <node id="Nation" label="Nation" />
+      <node id="Porte de Vincennes" label="Porte de Vincennes" />
+      <node id="Saint Mandé" label="Saint Mandé" />
+      <node id="Bérault" label="Bérault" />
+      <node id="Château de Vincennes" label="Château de Vincennes" />
+      <node id="Porte Dauphine" label="Porte Dauphine" />
+      <node id="Victor Hugo" label="Victor Hugo" />
+      <node id="Ternes" label="Ternes" />
+      <node id="Courcelles" label="Courcelles" />
+      <node id="Monceau" label="Monceau" />
+      <node id="Villiers" label="Villiers" />
+      <node id="Rome" label="Rome" />
+      <node id="Place de Clichy" label="Place de Clichy" />
+      <node id="Blanche" label="Blanche" />
+      <node id="Pigalle" label="Pigalle" />
+      <node id="Anvers" label="Anvers" />
+      <node id="Barbès Rochechouart" label="Barbès Rochechouart" />
+      <node id="La Chapelle" label="La Chapelle" />
+      <node id="Stalingrad" label="Stalingrad" />
+      <node id="Jaurès" label="Jaurès" />
+      <node id="Colonel Fabien" label="Colonel Fabien" />
+      <node id="Belleville" label="Belleville" />
+      <node id="Couronnes" label="Couronnes" />
+      <node id="Ménilmontant" label="Ménilmontant" />
+      <node id="Père Lachaise" label="Père Lachaise" />
+      <node id="Philippe Auguste" label="Philippe Auguste" />
+      <node id="Alexandre Dumas" label="Alexandre Dumas" />
+      <node id="Avron" label="Avron" />
+      <node id="La Courneuve 8 Mai 1945" label="La Courneuve 8 Mai 1945" />
+      <node id="Fort d'Auberviliers" label="Fort d'Auberviliers" />
+      <node id="Auberviliers Pantin Quatre Chemins" label="Auberviliers Pantin Quatre Chemins" />
+      <node id="Porte de la Villette" label="Porte de la Villette" />
+      <node id="Corentin Cariou" label="Corentin Cariou" />
+      <node id="Crimée" label="Crimée" />
+      <node id="Riquet" label="Riquet" />
+      <node id="Louis Blanc" label="Louis Blanc" />
+      <node id="Château Landon" label="Château Landon" />
+      <node id="Gare de l'Est" label="Gare de l'Est" />
+      <node id="Poissonnière" label="Poissonnière" />
+      <node id="Cadet" label="Cadet" />
+      <node id="Le Peletier" label="Le Peletier" />
+      <node id="Chaussée d'Antin La Fayette" label="Chaussée d'Antin La Fayette" />
+      <node id="Opéra" label="Opéra" />
+      <node id="Pyramides" label="Pyramides" />
+      <node id="Pont Neuf" label="Pont Neuf" />
+      <node id="Pont Marie" label="Pont Marie" />
+      <node id="Sully Morland" label="Sully Morland" />
+      <node id="Jussieu" label="Jussieu" />
+      <node id="Place Monge" label="Place Monge" />
+      <node id="Censier Daubenton" label="Censier Daubenton" />
+      <node id="Les Gobelins" label="Les Gobelins" />
+      <node id="Place d'Italie" label="Place d'Italie" />
+      <node id="Tolbiac" label="Tolbiac" />
+      <node id="Maison Blanche" label="Maison Blanche" />
+      <node id="Porte d'Italie" label="Porte d'Italie" />
+      <node id="Porte de Choisy" label="Porte de Choisy" />
+      <node id="Porte d'Ivry" label="Porte d'Ivry" />
+      <node id="Pierre et Marie Curie" label="Pierre et Marie Curie" />
+      <node id="Mairie d'Ivry" label="Mairie d'Ivry" />
+      <node id="Le Kremlin Bicêtre" label="Le Kremlin Bicêtre" />
+      <node id="Villejuif Léo Lagrange" label="Villejuif Léo Lagrange" />
+      <node id="Villejuif Paul Vaillant Couturier" label="Villejuif Paul Vaillant Couturier" />
+      <node id="Villejuif Louis Aragon" label="Villejuif Louis Aragon" />
+      <node id="Balard" label="Balard" />
+      <node id="Lourmel" label="Lourmel" />
+      <node id="Boucicaut" label="Boucicaut" />
+      <node id="Felix Faure" label="Felix Faure" />
+      <node id="Commerce" label="Commerce" />
+      <node id="La Motte Picquet Grenelle" label="La Motte Picquet Grenelle" />
+      <node id="Ecole Militaire" label="Ecole Militaire" />
+      <node id="La Tour Maubourg" label="La Tour Maubourg" />
+      <node id="Invalides" label="Invalides" />
+      <node id="Madeleine" label="Madeleine" />
+      <node id="Richelieu Drouot" label="Richelieu Drouot" />
+      <node id="Grands Boulevards" label="Grands Boulevards" />
+      <node id="Bonne Nouvelle" label="Bonne Nouvelle" />
+      <node id="Strasbourg Saint Denis" label="Strasbourg Saint Denis" />
+      <node id="République" label="République" />
+      <node id="Filles du Calvaire" label="Filles du Calvaire" />
+      <node id="Saint Sébastien Froissart" label="Saint Sébastien Froissart" />
+      <node id="Chemin Vert" label="Chemin Vert" />
+      <node id="Ledru Rollin" label="Ledru Rollin" />
+      <node id="Faidherbe Chaligny" label="Faidherbe Chaligny" />
+      <node id="Montgallet" label="Montgallet" />
+      <node id="Daumesnil" label="Daumesnil" />
+      <node id="Michel Bizot" label="Michel Bizot" />
+      <node id="Porte Dorée" label="Porte Dorée" />
+      <node id="Porte de Charenton" label="Porte de Charenton" />
+      <node id="Liberté" label="Liberté" />
+      <node id="Charenton Ecoles" label="Charenton Ecoles" />
+      <node id="Ecole vétérinaire de Maisons Alfort" label="Ecole vétérinaire de Maisons Alfort" />
+      <node id="Maisons Alfort Stade" label="Maisons Alfort Stade" />
+      <node id="Maisons Alfort Les Juillotes" label="Maisons Alfort Les Juillotes" />
+      <node id="Créteil L'Echat" label="Créteil L'Echat" />
+      <node id="Créteil Université" label="Créteil Université" />
+      <node id="Créteil Préfecture" label="Créteil Préfecture" />
+      <node id="Pointe du Lac" label="Pointe du Lac" />
+      <node id="Porte de Clignancourt" label="Porte de Clignancourt" />
+      <node id="Simplon" label="Simplon" />
+      <node id="Marcadet Poissonniers" label="Marcadet Poissonniers" />
+      <node id="Château Rouge" label="Château Rouge" />
+      <node id="Gare du Nord" label="Gare du Nord" />
+      <node id="Château d’eau" label="Château d’eau" />
+      <node id="Réaumur Sébastopol" label="Réaumur Sébastopol" />
+      <node id="Etienne Marcel" label="Etienne Marcel" />
+      <node id="Les Halles" label="Les Halles" />
+      <node id="Cité" label="Cité" />
+      <node id="Saint Michel" label="Saint Michel" />
+      <node id="Odéon" label="Odéon" />
+      <node id="Saint Germain des Prés" label="Saint Germain des Prés" />
+      <node id="Saint Sulpice" label="Saint Sulpice" />
+      <node id="Saint Placide" label="Saint Placide" />
+      <node id="Montparnasse Bienvenüe" label="Montparnasse Bienvenüe" />
+      <node id="Vavin" label="Vavin" />
+      <node id="Raspail" label="Raspail" />
+      <node id="Denfert Rochereau" label="Denfert Rochereau" />
+      <node id="Mouton Duvernet" label="Mouton Duvernet" />
+      <node id="Alésia" label="Alésia" />
+      <node id="Porte d’Orléans" label="Porte d’Orléans" />
+      <node id="Mairie de Montrouge" label="Mairie de Montrouge" />
+      <node id="Pont de Levallois Bécon" label="Pont de Levallois Bécon" />
+      <node id="Anatole France" label="Anatole France" />
+      <node id="Louise Michel" label="Louise Michel" />
+      <node id="Porte de Champerret" label="Porte de Champerret" />
+      <node id="Pereire" label="Pereire" />
+      <node id="Wagram" label="Wagram" />
+      <node id="Malesherbes" label="Malesherbes" />
+      <node id="Europe" label="Europe" />
+      <node id="Saint Lazare" label="Saint Lazare" />
+      <node id="Havre Caumartin" label="Havre Caumartin" />
+      <node id="Quatre Septembre" label="Quatre Septembre" />
+      <node id="Bourse" label="Bourse" />
+      <node id="Sentier" label="Sentier" />
+      <node id="Arts et Métiers" label="Arts et Métiers" />
+      <node id="Temple" label="Temple" />
+      <node id="Parmentier" label="Parmentier" />
+      <node id="Rue Saint Maur" label="Rue Saint Maur" />
+      <node id="Gambetta" label="Gambetta" />
+      <node id="Porte de Bagnolet" label="Porte de Bagnolet" />
+      <node id="Gallieni" label="Gallieni" />
+      <node id="Boulogne Pont de Saint Cloud" label="Boulogne Pont de Saint Cloud" />
+      <node id="Boulogne Jean Jaurès" label="Boulogne Jean Jaurès" />
+      <node id="Porte d'Auteuil" label="Porte d'Auteuil" />
+      <node id="Michel Ange Auteuil" label="Michel Ange Auteuil" />
+      <node id="Eglise d'Auteuil" label="Eglise d'Auteuil" />
+      <node id="Javel André Citroën" label="Javel André Citroën" />
+      <node id="Michel Ange Molitor" label="Michel Ange Molitor" />
+      <node id="Chardn Lagache" label="Chardn Lagache" />
+      <node id="Mirabeau" label="Mirabeau" />
+      <node id="Charles Michels" label="Charles Michels" />
+      <node id="Avenue Emile Zola" label="Avenue Emile Zola" />
+      <node id="Ségur" label="Ségur" />
+      <node id="Duroc" label="Duroc" />
+      <node id="Vaneau" label="Vaneau" />
+      <node id="Sèvres Babylone" label="Sèvres Babylone" />
+      <node id="Mabillon" label="Mabillon" />
+      <node id="Cluny La Sorbonne" label="Cluny La Sorbonne" />
+      <node id="Maubert Mutualité" label="Maubert Mutualité" />
+      <node id="Cardinal Lemoine" label="Cardinal Lemoine" />
+      <node id="Gare d'Austerlitz" label="Gare d'Austerlitz" />
+      <node id="Bobigny Pablo Picasso" label="Bobigny Pablo Picasso" />
+      <node id="Bobigny Pantin Raymond Queneau" label="Bobigny Pantin Raymond Queneau" />
+      <node id="Eglise de Pantin" label="Eglise de Pantin" />
+      <node id="Hoche" label="Hoche" />
+      <node id="Porte de Pantin" label="Porte de Pantin" />
+      <node id="Ourcq" label="Ourcq" />
+      <node id="Laumière" label="Laumière" />
+      <node id="Jacques Bonsergent" label="Jacques Bonsergent" />
+      <node id="Oberkampf" label="Oberkampf" />
+      <node id="Richard Lenoir" label="Richard Lenoir" />
+      <node id="Bréguet Sabin" label="Bréguet Sabin" />
+      <node id="Quai de la Râpée" label="Quai de la Râpée" />
+      <node id="Saint Marcel" label="Saint Marcel" />
+      <node id="Campo Formio" label="Campo Formio" />
+      <node id="Bercy" label="Bercy" />
+      <node id="Cour Saint Emilion" label="Cour Saint Emilion" />
+      <node id="Bibliothèque François Mitterrand" label="Bibliothèque François Mitterrand" />
+      <node id="Olympiades" label="Olympiades" />
+      <node id="Rambuteau" label="Rambuteau" />
+      <node id="Goncourt" label="Goncourt" />
+      <node id="Pyrénées" label="Pyrénées" />
+      <node id="Jourdain" label="Jourdain" />
+      <node id="Place des Fêtes" label="Place des Fêtes" />
+      <node id="Télégraphe" label="Télégraphe" />
+      <node id="Porte des Lilas" label="Porte des Lilas" />
+      <node id="Mairie des Lilas" label="Mairie des Lilas" />
+      <node id="Kléber" label="Kléber" />
+      <node id="Boissière" label="Boissière" />
+      <node id="Trocadero" label="Trocadero" />
+      <node id="Passy" label="Passy" />
+      <node id="Bir Hakeim" label="Bir Hakeim" />
+      <node id="Dupleix" label="Dupleix" />
+      <node id="Cambronne" label="Cambronne" />
+      <node id="Sèvres Lecourbe" label="Sèvres Lecourbe" />
+      <node id="Pasteur" label="Pasteur" />
+      <node id="Edgar Quinet" label="Edgar Quinet" />
+      <node id="Saint Jacques" label="Saint Jacques" />
+      <node id="Glacière" label="Glacière" />
+      <node id="Corvisart" label="Corvisart" />
+      <node id="Nationale" label="Nationale" />
+      <node id="Chevaleret" label="Chevaleret" />
+      <node id="Quai de la Gare" label="Quai de la Gare" />
+      <node id="Dugommier" label="Dugommier" />
+      <node id="Bel Air" label="Bel Air" />
+      <node id="Picpus" label="Picpus" />
+      <node id="Aubervilliers Front Populaire" label="Aubervilliers Front Populaire" />
+      <node id="Porte de la Chapelle" label="Porte de la Chapelle" />
+      <node id="Marx Dormoy" label="Marx Dormoy" />
+      <node id="Jules Joffrin" label="Jules Joffrin" />
+      <node id="Lamarck Caulaincourt" label="Lamarck Caulaincourt" />
+      <node id="Abbesses" label="Abbesses" />
+      <node id="Saint Georges" label="Saint Georges" />
+      <node id="Notre Dame de Lorette" label="Notre Dame de Lorette" />
+      <node id="Trinité d'Estiennes d'Orves" label="Trinité d'Estiennes d'Orves" />
+      <node id="Assemblée nationale" label="Assemblée nationale" />
+      <node id="Solferino" label="Solferino" />
+      <node id="Rue du Bac" label="Rue du Bac" />
+      <node id="Rennes" label="Rennes" />
+      <node id="Notre Dame des Champs" label="Notre Dame des Champs" />
+      <node id="Falguière" label="Falguière" />
+      <node id="Volontaires" label="Volontaires" />
+      <node id="Vaugirard" label="Vaugirard" />
+      <node id="Convention" label="Convention" />
+      <node id="Porte de Versailles" label="Porte de Versailles" />
+      <node id="Corentin Celton" label="Corentin Celton" />
+      <node id="Mairie d'Issy" label="Mairie d'Issy" />
+      <node id="Pont de Sèvres" label="Pont de Sèvres" />
+      <node id="Billancourt" label="Billancourt" />
+      <node id="Marcel Sembat" label="Marcel Sembat" />
+      <node id="Port de Saint Cloud" label="Port de Saint Cloud" />
+      <node id="Exelmans" label="Exelmans" />
+      <node id="Jasmin" label="Jasmin" />
+      <node id="Ranelagh" label="Ranelagh" />
+      <node id="La Muette" label="La Muette" />
+      <node id="Rue de la Pompe" label="Rue de la Pompe" />
+      <node id="Iéna" label="Iéna" />
+      <node id="Alma Marceau" label="Alma Marceau" />
+      <node id="Saint Philippe du Roule" label="Saint Philippe du Roule" />
+      <node id="Miromesnil" label="Miromesnil" />
+      <node id="Saint Augustin" label="Saint Augustin" />
+      <node id="Saint Ambroise" label="Saint Ambroise" />
+      <node id="Voltaire" label="Voltaire" />
+      <node id="Charonne" label="Charonne" />
+      <node id="Rue des Boulets" label="Rue des Boulets" />
+      <node id="Buzenval" label="Buzenval" />
+      <node id="Maraîchers" label="Maraîchers" />
+      <node id="Porte de Montreuil" label="Porte de Montreuil" />
+      <node id="Robespierre" label="Robespierre" />
+      <node id="Croix de Chavaux" label="Croix de Chavaux" />
+      <node id="Mairie de Montreuil" label="Mairie de Montreuil" />
+      <node id="Saint Denis Université" label="Saint Denis Université" />
+      <node id="Basilique Saint Denis" label="Basilique Saint Denis" />
+      <node id="Saint Denis Porte de Paris" label="Saint Denis Porte de Paris" />
+      <node id="Carrefour Pleyel" label="Carrefour Pleyel" />
+      <node id="Mairie de Saint Ouen" label="Mairie de Saint Ouen" />
+      <node id="Garibaldi" label="Garibaldi" />
+      <node id="Porte de Saint Ouen" label="Porte de Saint Ouen" />
+      <node id="Guy Môquet" label="Guy Môquet" />
+      <node id="La Fourche" label="La Fourche" />
+      <node id="Asnières Gennevilliers Les Courtilles" label="Asnières Gennevilliers Les Courtilles" />
+      <node id="Les Agnettes" label="Les Agnettes" />
+      <node id="Gabriel Péri" label="Gabriel Péri" />
+      <node id="Mairie de Clichy" label="Mairie de Clichy" />
+      <node id="Porte de Clichy" label="Porte de Clichy" />
+      <node id="Brochant" label="Brochant" />
+      <node id="Liège" label="Liège" />
+      <node id="Varenne" label="Varenne" />
+      <node id="Saint François Xavier" label="Saint François Xavier" />
+      <node id="Gaîté" label="Gaîté" />
+      <node id="Pernety" label="Pernety" />
+      <node id="Plaisance" label="Plaisance" />
+      <node id="Porte de Vanves" label="Porte de Vanves" />
+      <node id="Malakoff Plateau de Vanves" label="Malakoff Plateau de Vanves" />
+      <node id="Malakoff Rue Etienne Dolet" label="Malakoff Rue Etienne Dolet" />
+      <node id="Châtillon Montrouge" label="Châtillon Montrouge" />
+    </nodes>
+    <edges>
+      <edge id="0" source="La Défense Grande Arche" target="Esplanade de la Défense" />
+      <edge id="1" source="Esplanade de la Défense" target="Pont de Neuilly" />
+      <edge id="2" source="Pont de Neuilly" target="Les Sablons" />
+      <edge id="3" source="Les Sablons" target="Porte Maillot" />
+      <edge id="4" source="Porte Maillot" target="Argentine" />
+      <edge id="5" source="Argentine" target="Charles de Gaulle Etoile" />
+      <edge id="6" source="Charles de Gaulle Etoile" target="George V" />
+      <edge id="7" source="Charles de Gaulle Etoile" target="Victor Hugo" />
+      <edge id="8" source="Charles de Gaulle Etoile" target="Ternes" />
+      <edge id="9" source="Charles de Gaulle Etoile" target="Kléber" />
+      <edge id="10" source="George V" target="Franklin D Roosevelt" />
+      <edge id="11" source="Franklin D Roosevelt" target="Champs Elysées Clémenceau" />
+      <edge id="12" source="Franklin D Roosevelt" target="Alma Marceau" />
+      <edge id="13" source="Franklin D Roosevelt" target="Saint Philippe du Roule" />
+      <edge id="14" source="Champs Elysées Clémenceau" target="Concorde" />
+      <edge id="15" source="Champs Elysées Clémenceau" target="Miromesnil" />
+      <edge id="16" source="Champs Elysées Clémenceau" target="Invalides" />
+      <edge id="17" source="Concorde" target="Tuileries" />
+      <edge id="18" source="Concorde" target="Invalides" />
+      <edge id="19" source="Concorde" target="Madeleine" />
+      <edge id="20" source="Concorde" target="Assemblée nationale" />
+      <edge id="21" source="Tuileries" target="Palais Royal Musée du Louvre" />
+      <edge id="22" source="Palais Royal Musée du Louvre" target="Louvre Rivoli" />
+      <edge id="23" source="Palais Royal Musée du Louvre" target="Pyramides" />
+      <edge id="24" source="Palais Royal Musée du Louvre" target="Pont Neuf" />
+      <edge id="25" source="Louvre Rivoli" target="Châtelet" />
+      <edge id="26" source="Châtelet" target="Hôtel de Ville" />
+      <edge id="27" source="Châtelet" target="Pont Neuf" />
+      <edge id="28" source="Châtelet" target="Pont Marie" />
+      <edge id="29" source="Châtelet" target="Les Halles" />
+      <edge id="30" source="Châtelet" target="Cité" />
+      <edge id="31" source="Châtelet" target="Pyramides" />
+      <edge id="32" source="Châtelet" target="Gare de Lyon" />
+      <edge id="33" source="Hôtel de Ville" target="Saint Paul" />
+      <edge id="34" source="Hôtel de Ville" target="Rambuteau" />
+      <edge id="35" source="Saint Paul" target="Bastille" />
+      <edge id="36" source="Bastille" target="Gare de Lyon" />
+      <edge id="37" source="Bastille" target="Chemin Vert" />
+      <edge id="38" source="Bastille" target="Ledru Rollin" />
+      <edge id="39" source="Bastille" target="Bréguet Sabin" />
+      <edge id="40" source="Bastille" target="Quai de la Râpée" />
+      <edge id="41" source="Gare de Lyon" target="Reuilly Diderot" />
+      <edge id="42" source="Gare de Lyon" target="Bercy" />
+      <edge id="43" source="Reuilly Diderot" target="Nation" />
+      <edge id="44" source="Reuilly Diderot" target="Faidherbe Chaligny" />
+      <edge id="45" source="Reuilly Diderot" target="Montgallet" />
+      <edge id="46" source="Nation" target="Porte de Vincennes" />
+      <edge id="47" source="Nation" target="Avron" />
+      <edge id="48" source="Nation" target="Picpus" />
+      <edge id="49" source="Nation" target="Rue des Boulets" />
+      <edge id="50" source="Nation" target="Buzenval" />
+      <edge id="51" source="Porte de Vincennes" target="Saint Mandé" />
+      <edge id="52" source="Saint Mandé" target="Bérault" />
+      <edge id="53" source="Bérault" target="Château de Vincennes" />
+      <edge id="54" source="Porte Dauphine" target="Victor Hugo" />
+      <edge id="55" source="Ternes" target="Courcelles" />
+      <edge id="56" source="Courcelles" target="Monceau" />
+      <edge id="57" source="Monceau" target="Villiers" />
+      <edge id="58" source="Villiers" target="Rome" />
+      <edge id="59" source="Villiers" target="Malesherbes" />
+      <edge id="60" source="Villiers" target="Europe" />
+      <edge id="61" source="Rome" target="Place de Clichy" />
+      <edge id="62" source="Place de Clichy" target="Blanche" />
+      <edge id="63" source="Place de Clichy" target="La Fourche" />
+      <edge id="64" source="Place de Clichy" target="Liège" />
+      <edge id="65" source="Blanche" target="Pigalle" />
+      <edge id="66" source="Pigalle" target="Anvers" />
+      <edge id="67" source="Pigalle" target="Abbesses" />
+      <edge id="68" source="Pigalle" target="Saint Georges" />
+      <edge id="69" source="Anvers" target="Barbès Rochechouart" />
+      <edge id="70" source="Barbès Rochechouart" target="La Chapelle" />
+      <edge id="71" source="Barbès Rochechouart" target="Château Rouge" />
+      <edge id="72" source="Barbès Rochechouart" target="Gare du Nord" />
+      <edge id="73" source="La Chapelle" target="Stalingrad" />
+      <edge id="74" source="Stalingrad" target="Jaurès" />
+      <edge id="75" source="Stalingrad" target="Riquet" />
+      <edge id="76" source="Stalingrad" target="Louis Blanc" />
+      <edge id="77" source="Stalingrad" target="Gare du Nord" />
+      <edge id="78" source="Jaurès" target="Colonel Fabien" />
+      <edge id="79" source="Jaurès" target="Laumière" />
+      <edge id="80" source="Colonel Fabien" target="Belleville" />
+      <edge id="81" source="Belleville" target="Couronnes" />
+      <edge id="82" source="Belleville" target="Goncourt" />
+      <edge id="83" source="Belleville" target="Pyrénées" />
+      <edge id="84" source="Couronnes" target="Ménilmontant" />
+      <edge id="85" source="Ménilmontant" target="Père Lachaise" />
+      <edge id="86" source="Père Lachaise" target="Philippe Auguste" />
+      <edge id="87" source="Père Lachaise" target="Rue Saint Maur" />
+      <edge id="88" source="Père Lachaise" target="Gambetta" />
+      <edge id="89" source="Philippe Auguste" target="Alexandre Dumas" />
+      <edge id="90" source="Alexandre Dumas" target="Avron" />
+      <edge id="91" source="La Courneuve 8 Mai 1945" target="Fort d'Auberviliers" />
+      <edge id="92" source="Fort d'Auberviliers" target="Auberviliers Pantin Quatre Chemins" />
+      <edge id="93" source="Auberviliers Pantin Quatre Chemins" target="Porte de la Villette" />
+      <edge id="94" source="Porte de la Villette" target="Corentin Cariou" />
+      <edge id="95" source="Corentin Cariou" target="Crimée" />
+      <edge id="96" source="Crimée" target="Riquet" />
+      <edge id="97" source="Louis Blanc" target="Château Landon" />
+      <edge id="98" source="Château Landon" target="Gare de l'Est" />
+      <edge id="99" source="Gare de l'Est" target="Poissonnière" />
+      <edge id="100" source="Gare de l'Est" target="Gare du Nord" />
+      <edge id="101" source="Gare de l'Est" target="Château d’eau" />
+      <edge id="102" source="Gare de l'Est" target="Jacques Bonsergent" />
+      <edge id="103" source="Poissonnière" target="Cadet" />
+      <edge id="104" source="Cadet" target="Le Peletier" />
+      <edge id="105" source="Le Peletier" target="Chaussée d'Antin La Fayette" />
+      <edge id="106" source="Chaussée d'Antin La Fayette" target="Opéra" />
+      <edge id="107" source="Chaussée d'Antin La Fayette" target="Havre Caumartin" />
+      <edge id="108" source="Chaussée d'Antin La Fayette" target="Richelieu Drouot" />
+      <edge id="109" source="Opéra" target="Pyramides" />
+      <edge id="110" source="Opéra" target="Madeleine" />
+      <edge id="111" source="Opéra" target="Richelieu Drouot" />
+      <edge id="112" source="Opéra" target="Havre Caumartin" />
+      <edge id="113" source="Opéra" target="Quatre Septembre" />
+      <edge id="114" source="Pyramides" target="Madeleine" />
+      <edge id="115" source="Pont Marie" target="Sully Morland" />
+      <edge id="116" source="Sully Morland" target="Jussieu" />
+      <edge id="117" source="Jussieu" target="Place Monge" />
+      <edge id="118" source="Jussieu" target="Cardinal Lemoine" />
+      <edge id="119" source="Jussieu" target="Gare d'Austerlitz" />
+      <edge id="120" source="Place Monge" target="Censier Daubenton" />
+      <edge id="121" source="Censier Daubenton" target="Les Gobelins" />
+      <edge id="122" source="Les Gobelins" target="Place d'Italie" />
+      <edge id="123" source="Place d'Italie" target="Tolbiac" />
+      <edge id="124" source="Place d'Italie" target="Campo Formio" />
+      <edge id="125" source="Place d'Italie" target="Corvisart" />
+      <edge id="126" source="Place d'Italie" target="Nationale" />
+      <edge id="127" source="Tolbiac" target="Maison Blanche" />
+      <edge id="128" source="Maison Blanche" target="Porte d'Italie" />
+      <edge id="129" source="Maison Blanche" target="Le Kremlin Bicêtre" />
+      <edge id="130" source="Porte d'Italie" target="Porte de Choisy" />
+      <edge id="131" source="Porte de Choisy" target="Porte d'Ivry" />
+      <edge id="132" source="Porte d'Ivry" target="Pierre et Marie Curie" />
+      <edge id="133" source="Pierre et Marie Curie" target="Mairie d'Ivry" />
+      <edge id="134" source="Le Kremlin Bicêtre" target="Villejuif Léo Lagrange" />
+      <edge id="135" source="Villejuif Léo Lagrange" target="Villejuif Paul Vaillant Couturier" />
+      <edge id="136" source="Villejuif Paul Vaillant Couturier" target="Villejuif Louis Aragon" />
+      <edge id="137" source="Balard" target="Lourmel" />
+      <edge id="138" source="Lourmel" target="Boucicaut" />
+      <edge id="139" source="Boucicaut" target="Felix Faure" />
+      <edge id="140" source="Felix Faure" target="Commerce" />
+      <edge id="141" source="Commerce" target="La Motte Picquet Grenelle" />
+      <edge id="142" source="La Motte Picquet Grenelle" target="Ecole Militaire" />
+      <edge id="143" source="La Motte Picquet Grenelle" target="Avenue Emile Zola" />
+      <edge id="144" source="La Motte Picquet Grenelle" target="Ségur" />
+      <edge id="145" source="La Motte Picquet Grenelle" target="Dupleix" />
+      <edge id="146" source="La Motte Picquet Grenelle" target="Cambronne" />
+      <edge id="147" source="Ecole Militaire" target="La Tour Maubourg" />
+      <edge id="148" source="La Tour Maubourg" target="Invalides" />
+      <edge id="149" source="Invalides" target="Varenne" />
+      <edge id="150" source="Madeleine" target="Saint Lazare" />
+      <edge id="151" source="Richelieu Drouot" target="Grands Boulevards" />
+      <edge id="152" source="Grands Boulevards" target="Bonne Nouvelle" />
+      <edge id="153" source="Bonne Nouvelle" target="Strasbourg Saint Denis" />
+      <edge id="154" source="Strasbourg Saint Denis" target="République" />
+      <edge id="155" source="Strasbourg Saint Denis" target="Château d’eau" />
+      <edge id="156" source="Strasbourg Saint Denis" target="Réaumur Sébastopol" />
+      <edge id="157" source="République" target="Filles du Calvaire" />
+      <edge id="158" source="République" target="Temple" />
+      <edge id="159" source="République" target="Parmentier" />
+      <edge id="160" source="République" target="Jacques Bonsergent" />
+      <edge id="161" source="République" target="Oberkampf" />
+      <edge id="162" source="République" target="Arts et Métiers" />
+      <edge id="163" source="République" target="Goncourt" />
+      <edge id="164" source="Filles du Calvaire" target="Saint Sébastien Froissart" />
+      <edge id="165" source="Saint Sébastien Froissart" target="Chemin Vert" />
+      <edge id="166" source="Ledru Rollin" target="Faidherbe Chaligny" />
+      <edge id="167" source="Montgallet" target="Daumesnil" />
+      <edge id="168" source="Daumesnil" target="Michel Bizot" />
+      <edge id="169" source="Daumesnil" target="Dugommier" />
+      <edge id="170" source="Daumesnil" target="Bel Air" />
+      <edge id="171" source="Michel Bizot" target="Porte Dorée" />
+      <edge id="172" source="Porte Dorée" target="Porte de Charenton" />
+      <edge id="173" source="Porte de Charenton" target="Liberté" />
+      <edge id="174" source="Liberté" target="Charenton Ecoles" />
+      <edge id="175" source="Charenton Ecoles" target="Ecole vétérinaire de Maisons Alfort" />
+      <edge id="176" source="Ecole vétérinaire de Maisons Alfort" target="Maisons Alfort Stade" />
+      <edge id="177" source="Maisons Alfort Stade" target="Maisons Alfort Les Juillotes" />
+      <edge id="178" source="Maisons Alfort Les Juillotes" target="Créteil L'Echat" />
+      <edge id="179" source="Créteil L'Echat" target="Créteil Université" />
+      <edge id="180" source="Créteil Université" target="Créteil Préfecture" />
+      <edge id="181" source="Créteil Préfecture" target="Pointe du Lac" />
+      <edge id="182" source="Porte de Clignancourt" target="Simplon" />
+      <edge id="183" source="Simplon" target="Marcadet Poissonniers" />
+      <edge id="184" source="Marcadet Poissonniers" target="Château Rouge" />
+      <edge id="185" source="Marcadet Poissonniers" target="Marx Dormoy" />
+      <edge id="186" source="Marcadet Poissonniers" target="Jules Joffrin" />
+      <edge id="187" source="Réaumur Sébastopol" target="Etienne Marcel" />
+      <edge id="188" source="Réaumur Sébastopol" target="Sentier" />
+      <edge id="189" source="Réaumur Sébastopol" target="Arts et Métiers" />
+      <edge id="190" source="Etienne Marcel" target="Les Halles" />
+      <edge id="191" source="Cité" target="Saint Michel" />
+      <edge id="192" source="Saint Michel" target="Odéon" />
+      <edge id="193" source="Odéon" target="Saint Germain des Prés" />
+      <edge id="194" source="Odéon" target="Mabillon" />
+      <edge id="195" source="Odéon" target="Cluny La Sorbonne" />
+      <edge id="196" source="Saint Germain des Prés" target="Saint Sulpice" />
+      <edge id="197" source="Saint Sulpice" target="Saint Placide" />
+      <edge id="198" source="Saint Placide" target="Montparnasse Bienvenüe" />
+      <edge id="199" source="Montparnasse Bienvenüe" target="Vavin" />
+      <edge id="200" source="Montparnasse Bienvenüe" target="Pasteur" />
+      <edge id="201" source="Montparnasse Bienvenüe" target="Edgar Quinet" />
+      <edge id="202" source="Montparnasse Bienvenüe" target="Notre Dame des Champs" />
+      <edge id="203" source="Montparnasse Bienvenüe" target="Falguière" />
+      <edge id="204" source="Montparnasse Bienvenüe" target="Duroc" />
+      <edge id="205" source="Montparnasse Bienvenüe" target="Gaîté" />
+      <edge id="206" source="Vavin" target="Raspail" />
+      <edge id="207" source="Raspail" target="Denfert Rochereau" />
+      <edge id="208" source="Raspail" target="Edgar Quinet" />
+      <edge id="209" source="Denfert Rochereau" target="Mouton Duvernet" />
+      <edge id="210" source="Denfert Rochereau" target="Saint Jacques" />
+      <edge id="211" source="Mouton Duvernet" target="Alésia" />
+      <edge id="212" source="Alésia" target="Porte d’Orléans" />
+      <edge id="213" source="Porte d’Orléans" target="Mairie de Montrouge" />
+      <edge id="214" source="Pont de Levallois Bécon" target="Anatole France" />
+      <edge id="215" source="Anatole France" target="Louise Michel" />
+      <edge id="216" source="Louise Michel" target="Porte de Champerret" />
+      <edge id="217" source="Porte de Champerret" target="Pereire" />
+      <edge id="218" source="Pereire" target="Wagram" />
+      <edge id="219" source="Wagram" target="Malesherbes" />
+      <edge id="220" source="Europe" target="Saint Lazare" />
+      <edge id="221" source="Saint Lazare" target="Havre Caumartin" />
+      <edge id="222" source="Saint Lazare" target="Trinité d'Estiennes d'Orves" />
+      <edge id="223" source="Saint Lazare" target="Liège" />
+      <edge id="224" source="Saint Lazare" target="Miromesnil" />
+      <edge id="225" source="Havre Caumartin" target="Saint Augustin" />
+      <edge id="226" source="Quatre Septembre" target="Bourse" />
+      <edge id="227" source="Bourse" target="Sentier" />
+      <edge id="228" source="Arts et Métiers" target="Temple" />
+      <edge id="229" source="Arts et Métiers" target="Rambuteau" />
+      <edge id="230" source="Parmentier" target="Rue Saint Maur" />
+      <edge id="231" source="Gambetta" target="Porte de Bagnolet" />
+      <edge id="232" source="Porte de Bagnolet" target="Gallieni" />
+      <edge id="233" source="Boulogne Pont de Saint Cloud" target="Boulogne Jean Jaurès" />
+      <edge id="234" source="Boulogne Jean Jaurès" target="Porte d'Auteuil" />
+      <edge id="235" source="Boulogne Jean Jaurès" target="Michel Ange Molitor" />
+      <edge id="236" source="Porte d'Auteuil" target="Michel Ange Auteuil" />
+      <edge id="237" source="Michel Ange Auteuil" target="Eglise d'Auteuil" />
+      <edge id="238" source="Michel Ange Auteuil" target="Michel Ange Molitor" />
+      <edge id="239" source="Michel Ange Auteuil" target="Jasmin" />
+      <edge id="240" source="Eglise d'Auteuil" target="Javel André Citroën" />
+      <edge id="241" source="Javel André Citroën" target="Mirabeau" />
+      <edge id="242" source="Javel André Citroën" target="Charles Michels" />
+      <edge id="243" source="Michel Ange Molitor" target="Chardn Lagache" />
+      <edge id="244" source="Michel Ange Molitor" target="Exelmans" />
+      <edge id="245" source="Chardn Lagache" target="Mirabeau" />
+      <edge id="246" source="Charles Michels" target="Avenue Emile Zola" />
+      <edge id="247" source="Ségur" target="Duroc" />
+      <edge id="248" source="Duroc" target="Vaneau" />
+      <edge id="249" source="Duroc" target="Saint François Xavier" />
+      <edge id="250" source="Vaneau" target="Sèvres Babylone" />
+      <edge id="251" source="Sèvres Babylone" target="Mabillon" />
+      <edge id="252" source="Sèvres Babylone" target="Rue du Bac" />
+      <edge id="253" source="Sèvres Babylone" target="Rennes" />
+      <edge id="254" source="Cluny La Sorbonne" target="Maubert Mutualité" />
+      <edge id="255" source="Maubert Mutualité" target="Cardinal Lemoine" />
+      <edge id="256" source="Gare d'Austerlitz" target="Quai de la Râpée" />
+      <edge id="257" source="Gare d'Austerlitz" target="Saint Marcel" />
+      <edge id="258" source="Bobigny Pablo Picasso" target="Bobigny Pantin Raymond Queneau" />
+      <edge id="259" source="Bobigny Pantin Raymond Queneau" target="Eglise de Pantin" />
+      <edge id="260" source="Eglise de Pantin" target="Hoche" />
+      <edge id="261" source="Hoche" target="Porte de Pantin" />
+      <edge id="262" source="Porte de Pantin" target="Ourcq" />
+      <edge id="263" source="Ourcq" target="Laumière" />
+      <edge id="264" source="Oberkampf" target="Richard Lenoir" />
+      <edge id="265" source="Oberkampf" target="Saint Ambroise" />
+      <edge id="266" source="Richard Lenoir" target="Bréguet Sabin" />
+      <edge id="267" source="Saint Marcel" target="Campo Formio" />
+      <edge id="268" source="Bercy" target="Cour Saint Emilion" />
+      <edge id="269" source="Bercy" target="Quai de la Gare" />
+      <edge id="270" source="Bercy" target="Dugommier" />
+      <edge id="271" source="Cour Saint Emilion" target="Bibliothèque François Mitterrand" />
+      <edge id="272" source="Bibliothèque François Mitterrand" target="Olympiades" />
+      <edge id="273" source="Pyrénées" target="Jourdain" />
+      <edge id="274" source="Jourdain" target="Place des Fêtes" />
+      <edge id="275" source="Place des Fêtes" target="Télégraphe" />
+      <edge id="276" source="Télégraphe" target="Porte des Lilas" />
+      <edge id="277" source="Porte des Lilas" target="Mairie des Lilas" />
+      <edge id="278" source="Kléber" target="Boissière" />
+      <edge id="279" source="Boissière" target="Trocadero" />
+      <edge id="280" source="Trocadero" target="Passy" />
+      <edge id="281" source="Trocadero" target="Rue de la Pompe" />
+      <edge id="282" source="Trocadero" target="Iéna" />
+      <edge id="283" source="Passy" target="Bir Hakeim" />
+      <edge id="284" source="Bir Hakeim" target="Dupleix" />
+      <edge id="285" source="Cambronne" target="Sèvres Lecourbe" />
+      <edge id="286" source="Sèvres Lecourbe" target="Pasteur" />
+      <edge id="287" source="Pasteur" target="Falguière" />
+      <edge id="288" source="Pasteur" target="Volontaires" />
+      <edge id="289" source="Saint Jacques" target="Glacière" />
+      <edge id="290" source="Glacière" target="Corvisart" />
+      <edge id="291" source="Nationale" target="Chevaleret" />
+      <edge id="292" source="Chevaleret" target="Quai de la Gare" />
+      <edge id="293" source="Bel Air" target="Picpus" />
+      <edge id="294" source="Aubervilliers Front Populaire" target="Porte de la Chapelle" />
+      <edge id="295" source="Porte de la Chapelle" target="Marx Dormoy" />
+      <edge id="296" source="Jules Joffrin" target="Lamarck Caulaincourt" />
+      <edge id="297" source="Lamarck Caulaincourt" target="Abbesses" />
+      <edge id="298" source="Saint Georges" target="Notre Dame de Lorette" />
+      <edge id="299" source="Notre Dame de Lorette" target="Trinité d'Estiennes d'Orves" />
+      <edge id="300" source="Assemblée nationale" target="Solferino" />
+      <edge id="301" source="Solferino" target="Rue du Bac" />
+      <edge id="302" source="Rennes" target="Notre Dame des Champs" />
+      <edge id="303" source="Volontaires" target="Vaugirard" />
+      <edge id="304" source="Vaugirard" target="Convention" />
+      <edge id="305" source="Convention" target="Porte de Versailles" />
+      <edge id="306" source="Porte de Versailles" target="Corentin Celton" />
+      <edge id="307" source="Corentin Celton" target="Mairie d'Issy" />
+      <edge id="308" source="Pont de Sèvres" target="Billancourt" />
+      <edge id="309" source="Billancourt" target="Marcel Sembat" />
+      <edge id="310" source="Marcel Sembat" target="Port de Saint Cloud" />
+      <edge id="311" source="Port de Saint Cloud" target="Exelmans" />
+      <edge id="312" source="Jasmin" target="Ranelagh" />
+      <edge id="313" source="Ranelagh" target="La Muette" />
+      <edge id="314" source="La Muette" target="Rue de la Pompe" />
+      <edge id="315" source="Iéna" target="Alma Marceau" />
+      <edge id="316" source="Saint Philippe du Roule" target="Miromesnil" />
+      <edge id="317" source="Miromesnil" target="Saint Augustin" />
+      <edge id="318" source="Saint Ambroise" target="Voltaire" />
+      <edge id="319" source="Voltaire" target="Charonne" />
+      <edge id="320" source="Charonne" target="Rue des Boulets" />
+      <edge id="321" source="Buzenval" target="Maraîchers" />
+      <edge id="322" source="Maraîchers" target="Porte de Montreuil" />
+      <edge id="323" source="Porte de Montreuil" target="Robespierre" />
+      <edge id="324" source="Robespierre" target="Croix de Chavaux" />
+      <edge id="325" source="Croix de Chavaux" target="Mairie de Montreuil" />
+      <edge id="326" source="Saint Denis Université" target="Basilique Saint Denis" />
+      <edge id="327" source="Basilique Saint Denis" target="Saint Denis Porte de Paris" />
+      <edge id="328" source="Saint Denis Porte de Paris" target="Carrefour Pleyel" />
+      <edge id="329" source="Carrefour Pleyel" target="Mairie de Saint Ouen" />
+      <edge id="330" source="Mairie de Saint Ouen" target="Garibaldi" />
+      <edge id="331" source="Garibaldi" target="Porte de Saint Ouen" />
+      <edge id="332" source="Porte de Saint Ouen" target="Guy Môquet" />
+      <edge id="333" source="Guy Môquet" target="La Fourche" />
+      <edge id="334" source="La Fourche" target="Brochant" />
+      <edge id="335" source="Asnières Gennevilliers Les Courtilles" target="Les Agnettes" />
+      <edge id="336" source="Les Agnettes" target="Gabriel Péri" />
+      <edge id="337" source="Gabriel Péri" target="Mairie de Clichy" />
+      <edge id="338" source="Mairie de Clichy" target="Porte de Clichy" />
+      <edge id="339" source="Porte de Clichy" target="Brochant" />
+      <edge id="340" source="Varenne" target="Saint François Xavier" />
+      <edge id="341" source="Gaîté" target="Pernety" />
+      <edge id="342" source="Pernety" target="Plaisance" />
+      <edge id="343" source="Plaisance" target="Porte de Vanves" />
+      <edge id="344" source="Porte de Vanves" target="Malakoff Plateau de Vanves" />
+      <edge id="345" source="Malakoff Plateau de Vanves" target="Malakoff Rue Etienne Dolet" />
+      <edge id="346" source="Malakoff Rue Etienne Dolet" target="Châtillon Montrouge" />
+    </edges>
+  </graph>
+</gexf>
